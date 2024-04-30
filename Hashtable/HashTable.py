@@ -51,7 +51,7 @@ class HashTable:
         return valueArray
 
 ht = HashTable(16)
-ht.put("name", "pratham")
+ht.put("name", "steve")
 ht.put("gender","male")
 print(ht)
 
